@@ -1,0 +1,20 @@
+# dependencies (bun install)
+node_modules
+
+# output
+out
+dist
+*.tgz
+
+# code coverage
+coverage
+*.lcov
+
+# environment variable files
+.envrc
+
+# caches
+*.tsbuildinfo
+
+# Finder (MacOS) folder config
+.DS_Store
