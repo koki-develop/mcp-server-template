@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-template",
+  "name": "mcp-server",
   "module": "index.ts",
   "type": "module",
   "private": true,
