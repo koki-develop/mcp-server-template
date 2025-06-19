@@ -4,10 +4,10 @@
     "": {
       "name": "mcp-server-template",
       "devDependencies": {
-        "@biomejs/biome": "^2.0.0",
+        "@biomejs/biome": "2.0.0",
         "@types/bun": "1.2.16",
-        "husky": "^9.1.7",
-        "lint-staged": "^16.1.2",
+        "husky": "9.1.7",
+        "lint-staged": "16.1.2",
         "typescript": "5.8.3",
       },
     },
