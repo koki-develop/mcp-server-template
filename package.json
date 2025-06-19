@@ -6,6 +6,7 @@
   "version": "0.0.0",
   "scripts": {
     "prepare": "husky",
+    "build": "bun run ./scripts/build.ts",
     "lint": "biome check .",
     "fmt": "biome check --write --unsafe .",
     "typecheck": "tsc --noEmit"
