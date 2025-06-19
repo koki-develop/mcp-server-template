@@ -21,7 +21,7 @@ To use this server with an MCP client, add the following configuration:
 ```json
 {
   "mcpServers": {
-    "todoist": {
+    "MCP_SERVER": {
       "command": "docker",
       "args": [
         "run",
