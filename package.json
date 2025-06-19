@@ -9,6 +9,9 @@
     "fmt": "biome check --write --unsafe .",
     "typecheck": "tsc --noEmit"
   },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.13.0"
+  },
   "devDependencies": {
     "@biomejs/biome": "2.0.0",
     "@types/bun": "1.2.16",
