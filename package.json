@@ -5,7 +5,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "prepare": "husky",
+    "prepare": "husky || true",
     "build": "bun run ./scripts/build.ts",
     "lint": "biome check .",
     "fmt": "biome check --write --unsafe .",
